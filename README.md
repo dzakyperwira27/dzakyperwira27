@@ -1,11 +1,10 @@
-# 👋 Hello! I'm Dzaky Perwira Yasig 
-
-![Nailong Kuning Halo](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif)
-
+| <h1>👋 Hello! I'm Dzaky Perwira Yasig</h1> | ![Nailong Kuning Halo](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif) |
+|--------------------------------------------|------------------------------------------------------------|
 
 I'm a **Software Engineering (RPL)** student from **SMKN 2 Padang Panjang**, West Sumatra, Indonesia 🇮🇩  
 I enjoy learning how to design and build websites that look good and are easy to use.  
 Right now, I’m focusing on improving my **UI design** and **frontend development** skills.
+
 
 ---
 
