@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Dzaky Perwira Yasig 
 
-![Nailong Kuning Halo]([./assets/nailong_halo.gif](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif))
+![Nailong Kuning Halo](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif)
 
 
 I'm a **Software Engineering (RPL)** student from **SMKN 2 Padang Panjang**, West Sumatra, Indonesia 🇮🇩  
