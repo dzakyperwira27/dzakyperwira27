@@ -1,4 +1,4 @@
- <h1>👋 Hello! <BR> I'm Dzaky Perwira Yasig</h1> | ![Nailong Kuning Halo](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif) 
+ <h1>👋 Hello! I'm Dzaky Perwira Yasig</h1> | ![Nailong Kuning Halo](https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif) 
 
 
 I'm a **Software Engineering (RPL)** student from **SMKN 2 Padang Panjang**, West Sumatra, Indonesia 🇮🇩  
