@@ -9,7 +9,7 @@ Right now, I’m focusing on improving my **UI design** and **frontend developme
 ## 💻 About Me
 - 🎨 I like creating simple, clean, and user-friendly interfaces  
 - 💡 Still learning and exploring more about **UI/UX design** and **frontend coding**  
-- 🌱 Currently practicing design tools like **Figma** and **Canva**  
+- 🌱 Currently practicing design tools like **Figma** and **Elementor Wordpress**  
 - 🧩 I enjoy combining design and code to make things both beautiful and functional  
 - ⚡ I believe that *every project is a small step toward becoming better*
 
