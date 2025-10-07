@@ -44,7 +44,7 @@ Feel free to reach out anytime 👇
 ---
 
 ## ✨ Quote
-> “Keep learning, keep creating, and never stop improving.”
+> “tidak ada eskalator untuk sebuah kesuksesan kamu harus menaiki tangga!.”
 
 ---
 
