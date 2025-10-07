@@ -1,6 +1,6 @@
 <div align="left" style="display: flex; align-items: center;">
-  <h1 style="font-size: 2rem; margin: 0;">👋 Hello! I'm Dzaky Perwira Yasig</h1>
-  <img src="https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif" alt="Nailong Kuning Halo" width="80" style="margin-left: 15px;"/>
+<h1 style="font-size: 2rem; margin: 0;">👋 Halo! Saya Dzaky Perwira Yasig</h1>
+<img src="https://media1.tenor.com/m/-WmdsAabAEIAAAAd/way.gif" alt="Nailong Kuning Halo" width="80" style="margin-left: 15px;"/>
 </div>
 
 <p>I'm a <strong>Software Engineering (RPL)</strong> student from <strong>SMKN 2 Padang Panjang</strong>, West Sumatra, Indonesia 🇮🇩<br>
