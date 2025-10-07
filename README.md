@@ -32,6 +32,28 @@ Here are some tools and technologies I’ve learned and keep improving on:
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
+
+---
+
+## 🚀 Featured Project: ABSENSI_PKL
+**ABSENSI_PKL** is a simple web-based application designed to manage attendance for students during their internship (PKL) program.  
+It helps teachers and supervisors track student presence easily and efficiently.
+
+### 🔧 Tech Stack
+- Laravel  
+- PHP  
+- MySQL  
+- HTML, CSS, JavaScript  
+
+### 💡 Features
+- ✅ Login system for students and admins  
+- 📅 Attendance recording (check-in & check-out)  
+- 📊 Admin dashboard to view and manage attendance data  
+- 🧾 Export attendance reports  
+
+### 📁 Repository
+👉 [View Project on GitHub](#https://github.com/dzakyperwira27/Absensi_PKL.git) *(replace with your actual repo link once uploaded)*
+
 ---
 
 ## 📫 Let's Connect
