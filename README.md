@@ -9,15 +9,13 @@ Right now, I’m focusing on improving my **UI design** and **frontend developme
 ## 💻 About Me
 - 🎨 I like creating simple, clean, and user-friendly interfaces  
 - 💡 Still learning and exploring more about **UI/UX design** and **frontend coding**  
-- 🌱 Currently practicing design tools like **Figma** and **Elementor Wordpress**  
+- 🌱 Currently practicing design tools like **Figma** and **Elementor**  
 - 🧩 I enjoy combining design and code to make things both beautiful and functional  
 - ⚡ I believe that *every project is a small step toward becoming better*
 
 ---
 
 ## 🧰 Tech Stack & Skills
-Here are some tools and technologies I’ve learned and keep improving on:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -32,42 +30,40 @@ Here are some tools and technologies I’ve learned and keep improving on:
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-
 ---
 
 ## 🚀 Featured Project: ABSENSI_PKL
-**ABSENSI_PKL** is a simple web-based application designed to manage attendance for students during their internship (PKL) program.  
-It helps teachers and supervisors track student presence easily and efficiently.
+**ABSENSI_PKL** is a web-based application to manage attendance for students during their internship (PKL).  
+It helps teachers and supervisors track attendance easily and efficiently.
 
-### 🔧 Tech Stack
-- Laravel  
-- PHP  
-- MySQL  
-- HTML, CSS, JavaScript  
+**Tech Stack:** Laravel, PHP, MySQL, HTML, CSS, JavaScript  
+**Features:** Login system, Attendance tracking, Admin dashboard, Export reports  
 
-### 💡 Features
-- ✅ Login system for students and admins  
-- 📅 Attendance recording (check-in & check-out)  
-- 📊 Admin dashboard to view and manage attendance data  
-- 🧾 Export attendance reports  
+👉 [View ABSENSI_PKL on GitHub](https://github.com/dzakyperwira27/Absensi_PKL)
 
-### 📁 Repository
-👉 [ABSENSI_PKL](https://github.com/dzakyperwira27/Absensi_PKL.git)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzakyperwira27&show_icons=true&theme=radical" alt="Dzaky GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyperwira27&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
-I’d love to learn, share, and grow together with others in tech and design!  
-Feel free to reach out anytime 👇
-
 - 📧 **Email:** dzakyperwira1@gmail.com  
 - 📸 **Instagram:** [@perwira.yasig](https://instagram.com/perwira.yasig)
 
 ---
 
 ## ✨ Quote
-> “tidak ada eskalator untuk sebuah kesuksesan kamu harus menaiki tangga!.”
+> “Keep learning, keep creating, and never stop improving.”
 
 ---
 
-⭐ *Thanks for visiting my profile! I’m still learning — but every project brings me one step closer to my goals.*
+⭐ *Thanks for visiting my profile! Every project brings me one step closer to my goals.*
