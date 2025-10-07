@@ -52,7 +52,7 @@ It helps teachers and supervisors track student presence easily and efficiently.
 - 🧾 Export attendance reports  
 
 ### 📁 Repository
-👉 [View Project on GitHub](#https://github.com/dzakyperwira27/Absensi_PKL.git) *(replace with your actual repo link once uploaded)*
+👉 [View Project on GitHub](#https://github.com/dzakyperwira27/Absensi_PKL.git)
 
 ---
 
