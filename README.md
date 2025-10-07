@@ -1,43 +1,43 @@
-# 👋 Hi, I'm Dzaky Perwira Yasig!
+# 👋 Hello World! I'm Dzaky Perwira Yasig
 
-I'm a Software Engineering (RPL) student at **SMKN 2 Padang Panjang**, West Sumatra, Indonesia.  
-I’m passionate about building web applications, learning backend development, and exploring creative digital solutions.
+A passionate **Software Engineering (RPL)** student from **SMKN 2 Padang Panjang**, West Sumatra, Indonesia 🇮🇩  
+I love transforming ideas into real web applications and continuously improving my coding skills every day.  
+Focused on writing clean, efficient code and crafting solutions that make life easier.
 
 ---
 
 ## 💻 About Me
-- 🎓 Student of Software Engineering (RPL)
-- 💡 Passionate about web development using Laravel and PHP
-- 🌱 Currently learning about API integration, database design, and modern frontend tools
-- 🧠 I enjoy problem-solving, clean code, and continuous learning
+- 🎓 Currently pursuing my studies in **Software Engineering**
+- 💡 Specialized in **Web Development** with **Laravel** and **PHP**
+- 🌱 Exploring **API integration**, **database design**, and **modern front-end tools**
+- ⚙️ Interested in **system architecture** and **real-world software projects**
+- 🧠 Always eager to **learn, adapt, and innovate**
 
 ---
 
-## 🧰 Skills
-Here are some of the tools and technologies I work with:
+## 🧰 Tech Stack & Skills
+Here are the tools and technologies I use to bring ideas to life:
 
-- **Laravel**
-- **PHP**
-- **MySQL**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Git & GitHub**
-- **WordPress**
+- 🛠️ **Frameworks:** Laravel  
+- 💾 **Backend:** PHP, MySQL  
+- 🎨 **Frontend:** HTML, CSS, JavaScript  
+- 🔗 **Version Control:** Git & GitHub  
+- 🌍 **CMS:** WordPress  
 
 ---
 
-## 📫 Contact Me
-If you'd like to connect or collaborate, feel free to reach out!
+## 📫 Let's Connect
+I’m always open to discussions, collaborations, and new opportunities.  
+Reach out and let’s create something amazing together!
 
-- **Email:** dzakyperwira1@gmail.com  
-- **Instagram:** [@perwira.yasig](https://instagram.com/perwira.yasig)
-
----
-
-## ✨ Quote
-> “Code. Learn. Improve. Repeat.”
+- 📧 **Email:** dzakyperwira1@gmail.com  
+- 📸 **Instagram:** [@perwira.yasig](https://instagram.com/perwira.yasig)
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+## ✨ Personal Motto
+> “Code with purpose. Learn with passion. Improve every single day.”
+
+---
+
+⭐ *Thanks for stopping by! Feel free to explore my repositories — each project is a step in my learning journey.*
