@@ -3,9 +3,9 @@
   
 </div>
 
-<p>I'm a <strong>Software Engineering (RPL)</strong> student from <strong>SMKN 2 Padang Panjang</strong>, West Sumatra, Indonesia 🇮🇩<br>
+<p>I'm a <strong>first-year Informatics Engineering</strong> student at <strong>Institut Teknologi Sumatera (ITERA)</strong>, Lampung, Indonesia 🇮🇩<br>
 I enjoy learning how to design and build websites that look good and are easy to use.<br>
-Right now, I’m focusing on improving my <strong>UI design</strong> and <strong>frontend development</strong> skills.</p>
+Right now, I’m focusing on improving my <strong>UI design</strong> and <strong>fullstack development</strong> skills.</p>
 
 
 ---
