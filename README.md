@@ -47,18 +47,6 @@ It helps teachers and supervisors track attendance easily and efficiently.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakyperwira27&show_icons=true&theme=radical" alt="Dzaky GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyperwira27&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 - 📧 **Email:** dzakyperwira1@gmail.com  
 - 📸 **Instagram:** [@perwira.yasig](https://instagram.com/perwira.yasig)
